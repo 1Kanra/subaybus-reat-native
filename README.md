@@ -48,6 +48,11 @@ This is one way to run your app — you can also run it directly from within And
 
 ## i used realm to access the server, but it seems inconsistent, try to setup your server, to retrieve the data from db
 ## in user.screen.tsx still need to add markers for when the bus locations are retrieved
+ 
+realmcontext, realmwrapper, appwrapper, are used in the realm library, kung hindi gagamitin yung realm, tanggalin na.
+sa index.js appwrapper.tsx ang nirurun nya, hindi app.tsx
+
+
 
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
